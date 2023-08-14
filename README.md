@@ -87,10 +87,16 @@
       <br>VS Code
   </tr>
 </table>
+<br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimasudd&show_icons=true&locale=en&layout=compact" alt="alimasudd"/></p>
-<br>
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimasudd&theme=default" alt="alimasudd"/></p>
+:zap: Githhub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimasudd&show_icons=true&theme=default)
+
+:zap: Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimasudd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
