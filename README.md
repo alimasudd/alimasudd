@@ -12,7 +12,6 @@
   
 - 📫 How to reach me **alimasudd.dev@gmail.com**
 
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
