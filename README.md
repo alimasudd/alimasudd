@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Mas'ud</h1>
 <h3 align="center">A Mobile Software Engineer</h3>
 
+<!-- <div align="center"><img width="350px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajljdWFvbGx6N25pNG00Zmt5ZTlhYnJmYjhwaGp4c25lMXo3NnVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.webp" /></div> -->
 
-
-<div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajljdWFvbGx6N25pNG00Zmt5ZTlhYnJmYjhwaGp4c25lMXo3NnVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.webp" /></div>
+<div align="center"><img width="350px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajljdWFvbGx6N25pNG00Zmt5ZTlhYnJmYjhwaGp4c25lMXo3NnVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.webp" /></div>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimasudd&label=Profile%20views&color=blueviolet&style=flat" alt="alimasudd" /> </p>
@@ -103,7 +103,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimasudd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+<div align="left"><img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"></div>
 
 <!--
 **alimasudd/alimasudd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
