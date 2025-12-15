@@ -12,7 +12,7 @@
   
 - 🔭 I’m currently working on [indracodev](https://github.com/indracodev)
 
-- 💬 Ask me about **Kotlin, Java, Dart, Flutter**
+<!-- - 💬 Ask me about **Kotlin, Java, Dart, Flutter** -->
   
 - 📫 How to reach me **alimasudd.dev@gmail.com**
 
