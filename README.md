@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Mas'ud</h1>
-<h3 align="center">A Mobile Software Engineer</h3>
+<h3 align="center">A Mobile Backend Engineer</h3>
 
 <!-- <div align="center"><img width="350px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajljdWFvbGx6N25pNG00Zmt5ZTlhYnJmYjhwaGp4c25lMXo3NnVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.webp" /></div> -->
 
