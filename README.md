@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Flutter
   
-- 🔭 I’m currently working on [indracodev](https://github.com/indracodev)
+<!-- - 🔭 I’m currently working on [indracodev](https://github.com/indracodev) -->
 
 <!-- - 💬 Ask me about **Kotlin, Java, Dart, Flutter** -->
   
